@@ -1,4 +1,7 @@
-﻿# .NET Client for Docker Remote API
+﻿# Quick internal release
+dotnet pack -c Release -o packages
+
+# .NET Client for Docker Remote API
 
 This library allows you to interact with [Docker Remote API][docker-remote-api]  endpoints in your .NET applications.
 
